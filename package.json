@@ -4,7 +4,7 @@
   "description": "A boilerplate for our upcoming websites",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp run",
+    "dev": "gulp serve",
     "build": "gulp build"
   },
   "author": "",
