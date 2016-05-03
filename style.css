@@ -1,0 +1,38 @@
+.logo-font {
+  padding-top: 250px;
+  font-size: 60px;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  color: grey;
+  font-weight: 300;
+  line-height: 1;
+}
+
+.logo-font__sublogo {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  padding-top: 270px;
+  font-weight: 300;
+  font-size: 60px;
+  color: white
+}
+
+.boilerplate-section {
+  position: relative;
+  height: 800px;
+  width: auto;
+  background: url('assets/switchel-room.jpg') center 30% no-repeat;
+  background-size: cover;
+}
+
+.switchel-transparent {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(1%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.65))),url('assets/switchel-room.jpg') center / cover;
+}
+
+.layout-logo {
+  height: 150px;
+  position: relative;
+  top: 5px;
+}
+
+.logo-font-typed {
+  margin-left: 6px;
+}
